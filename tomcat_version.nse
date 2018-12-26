@@ -23,4 +23,4 @@ action = function(host, port)
     end
 
 end
-# 밑에다가 추가했지롱, 첫번째줄 공백 지웠지롱
+#에딧플러스로 수정했지롱
