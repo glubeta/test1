@@ -1,3 +1,4 @@
+# 연습 좀 해보자.
 local shortport = require "shortport"
 local http = require "http"
 local stdnse = require "stdnse"
