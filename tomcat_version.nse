@@ -1,4 +1,3 @@
-
 local shortport = require "shortport"
 local http = require "http"
 local stdnse = require "stdnse"
@@ -24,4 +23,4 @@ action = function(host, port)
     end
 
 end
-# 밑에다가 추가했지롱.
+# 밑에다가 추가했지롱, 첫번째줄 공백 지웠지롱
